@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hume02" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ListViewActivity01"
+            android:label="ListView01">
+        </activity>
+        <activity
+            android:name=".ListViewActivity02"
+            android:label="ListView02">
+        </activity>
+        <activity
+            android:name=".ListViewActivity03"
+            android:label="ListView03">
+        </activity>
+        <activity
+            android:name=".ListViewActivity04"
+            android:label="ListView04">
+        </activity>
+        <activity
+            android:name=".ListViewActivity05"
+            android:label="ListView05">
+        </activity>
+    </application>
+
+</manifest>

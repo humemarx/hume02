@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hume02</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="listview_btn01">简单的listvew列表</string>
+    <string name="listview_btn02">带标题的listview列表</string>
+    <string name="listview_btn03">带图片的listview列表</string>
+    <string name="textstring01">Android开发之ListView</string>
+    <string name="listview_btn04">自定义的BaseAdapter颜色</string>
+    <string name="listview_btn05">自定义的ArrayAdapter颜色</string>
+    <string name="imageview_string">图片标题</string>
+    <string name="mylistview">mylistview</string>
+    <string name="array_btn">按钮</string>
+
+</resources>
